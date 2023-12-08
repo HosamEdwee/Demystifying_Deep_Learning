@@ -12,11 +12,11 @@ $$ c^2 = a^2 + b^2 $$
 
 where:
 - $c$ is the length of the hypotenuse,
-- $ a $ and $ b $ are the lengths of the triangle's other two sides.
+- $a$ and $ b $ are the lengths of the triangle's other two sides.
 
 ## Proof: 
 
-Consider a right triangle $ \triangle ABC $ with a right angle at $ B $. By drawing an altitude from point $ B $ to hypotenuse $ AC $, we create two smaller right triangles that are similar to $ \triangle ABC $. Using the properties of similar triangles, we can establish ratios of corresponding sides, which leads to the equality of the ratios of the squares of those sides. Summing these ratios, we arrive at the conclusion that $ a^2 + b^2 = c^2 $.
+Consider a right triangle $\triangle ABC$ with a right angle at $ B $. By drawing an altitude from point $ B $ to hypotenuse $ AC $, we create two smaller right triangles that are similar to $ \triangle ABC $. Using the properties of similar triangles, we can establish ratios of corresponding sides, which leads to the equality of the ratios of the squares of those sides. Summing these ratios, we arrive at the conclusion that $ a^2 + b^2 = c^2 $.
 
 ## Application:
 
