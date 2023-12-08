@@ -11,7 +11,7 @@ This can be expressed with the following equation:
 $$ c^2 = a^2 + b^2 $$
 
 where:
-- $ c $ is the length of the hypotenuse,
+- $c$ is the length of the hypotenuse,
 - $ a $ and $ b $ are the lengths of the triangle's other two sides.
 
 ## Proof: 
