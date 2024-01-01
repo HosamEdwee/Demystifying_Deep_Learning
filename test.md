@@ -21,3 +21,16 @@ Consider a right triangle $\triangle ABC$ with a right angle at $ B $. By drawin
 ## Application:
 
 The Pythagorean theorem has numerous applications in various fields, including physics, engineering, and computer science. For example, in computer graphics, the distance between two points in a plane can be calculated using the Pythagorean theorem, which is essential for rendering images and animations accurately.
+
+
+The area of a circle is given by $A = \pi r^2$, where $A$ is the area and $r$ is the radius of the circle.
+
+## Example Usage
+
+Here's a simple example of how to use this library:
+
+```python
+def add(a, b):
+    return a + b
+
+print(add(2, 3))
